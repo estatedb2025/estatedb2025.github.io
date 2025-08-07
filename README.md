@@ -3,4 +3,4 @@
 
 https://estatedb2025.github.io/
 
-<img width="1024" height="1024" alt="無題" src="https://github.com/user-attachments/assets/7100ae51-1120-4988-b374-0fe551815601" />
+<img width="450" height="450" alt="qrcode_estatedb2025 github io" src="https://github.com/user-attachments/assets/a7660981-76c4-4d52-a7b3-dfbdc11da009" />
