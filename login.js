@@ -64,7 +64,7 @@ Authentication 開始使用
 
 
 Firestore Database
-建立資料庫 位置 hk
+建立資料庫 位置 asia-east2 (hk)
 正式模式
 貼上規則
 
@@ -244,14 +244,14 @@ import {
     limit,
     getDocs
 } from "https://www.gstatic.com/firebasejs/11.6.1/firebase-firestore.js";
-const firebaseConfig = {
-    apiKey: "AIzaSyADk5vkYQqpaWUW9tI5erXE6GM3HcVpH18",
-    authDomain: "ineed-545cd.firebaseapp.com",
-    projectId: "ineed-545cd",
-    storageBucket: "ineed-545cd.firebasestorage.app",
-    messagingSenderId: "417974294016",
-    appId: "1:417974294016:web:c54e783f518c230a242ae5",
-    measurementId: "G-QEWY170WME"
+  const firebaseConfig = {
+    apiKey: "AIzaSyAlDHKY3Tm7OxLTFsuUa-RexN8icKuGua8",
+    authDomain: "estatedb2025-410ca.firebaseapp.com",
+    projectId: "estatedb2025-410ca",
+    storageBucket: "estatedb2025-410ca.firebasestorage.app",
+    messagingSenderId: "815190315100",
+    appId: "1:815190315100:web:f2cd27077598fc8fdc1699",
+    measurementId: "G-FPLFY741BN"
   };
 
 // 初始化 Firebase
